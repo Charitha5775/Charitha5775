@@ -1,63 +1,63 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Vemuri+Charitha;App+Developer+|+Web+Developer;GenAI+Enthusiast+|+DSA+Learner"/>
+Hi 👋 I'm Vemuri Charitha
 </h1>
 
+<h3 align="center">
+App Developer | Web Developer | DSA Learner
+</h3>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Welcome%20to%20My%20Profile&fontColor=00F7FF&fontSize=40&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&lines=Welcome+to+my+GitHub+Profile;Building+Projects+%7C+Learning+New+Technologies;App+Developer+%7C+Web+Developer+%7C+DSA+Learner"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 🎓 **B.Tech Computer Science Engineering - VIT-AP University**
 
 📚 **3rd Year Student | CGPA: 9.2 / 10**
 
-💡 Passionate about building applications and exploring new technologies.
+💡 I enjoy building applications and exploring emerging technologies in **software and application development**.
 
 ---
 
-# 🧠 Interests
+## 🧠 Interests
 
 * 📱 App Development
 * 🌐 Web Development
-* 🤖 Generative AI
-* 🧩 Data Structures & Algorithms
+* 🧩 Data Structures and Algorithms
+* 💻 Software Development
 
 ---
 
-# 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark"/>
+
 </p>
 
 ---
 
-# 🌐 Development
+## ⚙️ Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
-</p>
 
----
-
-# 🛠 Tools
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
 </p>
 
 ---
 
-# 📂 Projects
+## 📂 Featured Projects
 
 ### 🎬 Movie Recommendation System
 
 🔗 https://github.com/Charitha5775/MovieRecommendationSystem
 
-A chatbot-based system that recommends movies to users based on preferences.
+A chatbot-based system that recommends movies based on user preferences.
 
 ---
 
@@ -71,13 +71,13 @@ A simple calculator project demonstrating programming logic.
 
 ### 🗳 DVote App
 
-🚧 Link will be added soon
+🚧 Project link will be added soon
 
 A digital voting application project.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
