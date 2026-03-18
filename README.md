@@ -51,29 +51,40 @@ App Developer | Web Developer | DSA Learner
 
 ---
 
-## 📂 Featured Projects
+## 🧑‍💻 Personal Projects
 
-### 🎬 Movie Recommendation System
-
-🔗 https://github.com/Charitha5775/MovieRecommendationSystem
-
-A chatbot-based system that recommends movies based on user preferences.
-
----
+<p align="center">
 
 ### 🧮 Simple Calculator
-
-🔗 https://github.com/Charitha5775/Simple-Calculator
+<a href="https://github.com/Charitha5775/Simple-Calculator">
+<img src="https://opengraph.githubassets.com/1/Charitha5775/Simple-Calculator" width="40%"/>
+</a>
 
 A simple calculator project demonstrating programming logic.
 
+### 🎬 Movie Recommendation System
+<a href="https://github.com/Charitha5775/MovieRecommendationSystem">
+<img src="https://opengraph.githubassets.com/1/Charitha5775/MovieRecommendationSystem" width="40%"/>
+</a>
+
+A chatbot-based system that recommends movies based on user preferences.
+
+</p>
+
 ---
 
-### 🗳 DVote App
+## 🤝 Team Projects
 
-🚧 Project link will be added soon
+<p align="center">
+
+### 🗳 DVote App
+<a href="https://github.com/Lohitha-19/D-Vote">
+<img src="https://opengraph.githubassets.com/1/Lohitha-19/D-Vote" width="40%"/>
+</a>
 
 A digital voting application project.
+
+</p>
 
 ---
 
@@ -90,7 +101,3 @@ A digital voting application project.
 </a>
 
 </p>
-
----
-
-⭐ From https://github.com/Charitha5775
