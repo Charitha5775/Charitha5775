@@ -69,9 +69,22 @@ A simple calculator project demonstrating programming logic.
 
 A chatbot-based system that recommends movies based on user preferences.
 
+### 🍳 RecipeFinder Website
+<a href="https://github.com/Charitha5775/RecipeFinder">
+<img src="https://opengraph.githubassets.com/1/Charitha5775/MovieRecommendationSystem" width="40%"/>
+</a>
+
+A web application for searching and discoveing recipes based on ingredients.
+
+###  📄 Document Summary Assistant
+<a href="https://github.com/Charitha5775/RecipeFinder">
+<img src="https://opengraph.githubassets.com/1/Charitha5775/MovieRecommendationSystem" width="40%"/>
+</a>
+
+An AI-powered application for summarizing documents and extracting key information. 
+
 </p>
 
----
 
 ## 🤝 Team Projects
 
